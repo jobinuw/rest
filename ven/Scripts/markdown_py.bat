@@ -1,0 +1,1 @@
+@"C:\prueba\tangowd\ven\Scripts\python.exe" "C:\prueba\tangowd\ven\Scripts\markdown_py" %*
